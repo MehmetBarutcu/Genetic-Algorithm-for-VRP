@@ -1,6 +1,4 @@
 # Mehmet Barutcu
-# METU Industrial Engineering Senior Student
-
 
 E-mail: mehmet.barutcu@metu.edu.tr
 
